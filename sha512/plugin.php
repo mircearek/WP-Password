@@ -3,6 +3,7 @@
  * Plugin Name: SHA512 PBKDF2 Passwords
  * Author: Mircea Rechesan
  * Author URI: https://github.com/mircearek
+ * Description: Passwords will be saved using SHA512, not the default MD5
  * Version: 2.0
 */
 
